@@ -1,0 +1,10 @@
+# u-xvader boring-object entry — local build artefacts only, never committed
+__pycache__/
+*.py[cod]
+.pytest_cache/
+output/
+bundle.tar.gz
+transcripts.tar.gz
+kit.zip
+kit/
+.DS_Store
